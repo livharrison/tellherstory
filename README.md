@@ -14,3 +14,7 @@ In collaboration with Maura Pierce
 #9AAD9F (muted light blue)
 
 #948271 (dark tan brown)
+
+https://fonts.google.com/specimen/Capriola?preview.text=Tell%20Her%20Story&preview.text_type=custom&query=capriola
+
+https://fonts.google.com/specimen/Quicksand?preview.text=Tell%20Her%20Story&preview.text_type=custom
