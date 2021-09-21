@@ -7,6 +7,12 @@
   src: url('Capriola/Capriola-Regular.ttf') format('truetype');
 }
 
+/* Menu */
+.bg-dark {
+ /* background-color: #535064 !important;*/
+    background-color: red !important;
+}
+
 p {
   font-family: "Quicksand";
 }
