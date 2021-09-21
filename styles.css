@@ -1,7 +1,16 @@
 @font-face {
   font-family: "Quicksand";
-  src: url();
+  src: url('Quicksand/Quicksand-VariableFont_wght.ttf') format('truetype');
 }
 @font-face {
-src: url();
+  font-family: "Capriola";
+  src: url('Capriola/Capriola-Regular.ttf') format('truetype');
+}
+
+p {
+  font-family: "Quicksand";
+}
+
+h1 {
+  font-family: "Capriola";
 }
