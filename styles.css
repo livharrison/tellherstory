@@ -1,16 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 @font-face {
   font-family: "Quicksand";
   src: url('Quicksand/Quicksand-VariableFont_wght.ttf') format('truetype');
 }
 @font-face {
-  font-family: "Capriola";
+  font-family: 'Capriola';
   src: url('Capriola/Capriola-Regular.ttf') format('truetype');
 }
 
 /* Menu */
 .bg-dark {
- /* background-color: #535064 !important;*/
-    background-color: red !important;
+  background-color: #535064 !important;
+}
+
+.navbar-brand {
+  font-family: 'Capriola';
+}
+.nav-item {
+  font-family: 'Quicksand';
 }
 
 p {
@@ -18,5 +29,5 @@ p {
 }
 
 h1 {
-  font-family: "Capriola";
+  font-family: 'Capriola';
 }
