@@ -18,3 +18,10 @@ In collaboration with Maura Pierce
 https://fonts.google.com/specimen/Capriola?preview.text=Tell%20Her%20Story&preview.text_type=custom&query=capriola
 
 https://fonts.google.com/specimen/Quicksand?preview.text=Tell%20Her%20Story&preview.text_type=custom
+
+
+Science:
+
+Literature:
+
+Politics: Elizabeth Cady Stanton, 
