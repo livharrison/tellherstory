@@ -20,8 +20,8 @@ https://fonts.google.com/specimen/Capriola?preview.text=Tell%20Her%20Story&previ
 https://fonts.google.com/specimen/Quicksand?preview.text=Tell%20Her%20Story&preview.text_type=custom
 
 
-Science:
+Science: Chien-Shiung Wu, Ada Lovelace, Marie Curie, Rachel Carson
 
-Literature:
+Literature: Mary Wollstonecraft, Judith Sargent Murray, Mercy Otis Warren, Harriet Beecher Stowe
 
-Politics: Elizabeth Cady Stanton, 
+Politics: Elizabeth Cady Stanton, Alice Paul, Ida B Wells, Lucretia Mott, Susan B Anthony
