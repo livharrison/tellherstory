@@ -25,6 +25,19 @@
 h1 {
   font-family: 'Capriola';
 }
+
+#politics {
+  color: #9AAD9F;
+}
+
+#science {
+  color: #778063;
+}
+
+#literature {
+  color: #948271;
+}
+
 .logo-container {
   height: 240px;
   display: flex;
