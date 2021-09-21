@@ -7,34 +7,36 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="ths-logo.svg"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   id="svg1021"
+   width="200mm"
+   height="178mm"
+   viewBox="0 0 200 178"
    version="1.1"
-   viewBox="0 0 210 297"
-   height="297mm"
-   width="210mm">
+   id="svg1021"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="ths-logo.svg">
   <defs
      id="defs1015" />
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="25"
-     inkscape:window-x="0"
-     inkscape:window-height="776"
-     inkscape:window-width="1252"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="560"
-     inkscape:cx="400"
-     inkscape:zoom="0.34431818"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     inkscape:showpageshadow="false"
+     width="200mm"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.3291117"
+     inkscape:cx="453.17344"
+     inkscape:cy="553.92304"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1252"
+     inkscape:window-height="776"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata1018">
     <rdf:RDF>
@@ -48,41 +50,41 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <g
-       transform="matrix(0.49165609,0,0,0.49165609,297.71821,84.573989)"
-       id="g1028">
+       id="g1028"
+       transform="matrix(0.61538462,0,0,0.61538462,344.47585,12.429543)">
       <rect
-         y="-20.198008"
-         x="-559.77325"
-         height="289"
-         width="325"
+         style="fill:#535064;fill-opacity:1;stroke-width:0.245879;stroke-linecap:round;stroke-linejoin:round"
          id="rect998"
-         style="fill:#535064;fill-opacity:1;stroke-width:0.245879;stroke-linecap:round;stroke-linejoin:round" />
+         width="325"
+         height="289"
+         x="-559.77325"
+         y="-20.198008" />
       <text
-         transform="scale(1.0090921,0.99098983)"
-         id="text992"
-         y="78.740433"
-         x="-269.53128"
+         xml:space="preserve"
          style="font-size:73.8985px;line-height:0;font-family:'New Cicle';-inkscape-font-specification:'New Cicle';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:1.84746"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:Capriola;-inkscape-font-specification:Capriola;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:1.84746"
-           y="78.740433"
-           x="-269.53128"
+         x="-269.53128"
+         y="78.740433"
+         id="text992"
+         transform="scale(1.0090921,0.99098983)"><tspan
+           sodipodi:role="line"
            id="tspan990"
-           sodipodi:role="line">TELL</tspan><tspan
-           id="tspan994"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:Capriola;-inkscape-font-specification:Capriola;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:1.84746"
+           x="-269.53128"
+           y="78.740433"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:Capriola;-inkscape-font-specification:Capriola;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:1.84746">TELL</tspan><tspan
+           sodipodi:role="line"
+           x="-269.53128"
            y="152.63893"
-           x="-269.53128"
-           sodipodi:role="line">HER</tspan><tspan
-           id="tspan996"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:Capriola;-inkscape-font-specification:Capriola;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:1.84746"
-           y="226.53743"
+           id="tspan994">HER</tspan><tspan
+           sodipodi:role="line"
            x="-269.53128"
-           sodipodi:role="line">STORY</tspan></text>
+           y="226.53743"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:Capriola;-inkscape-font-specification:Capriola;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:1.84746"
+           id="tspan996">STORY</tspan></text>
     </g>
   </g>
 </svg>

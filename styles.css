@@ -31,3 +31,12 @@ p {
 h1 {
   font-family: 'Capriola';
 }
+.logo-container {
+  height: 240px;
+  display: flex;
+  justify-content: center;
+}
+.logo-image {
+  height: 200px;
+  margin: 20px 0 20px 0;
+}
