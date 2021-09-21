@@ -56,7 +56,9 @@ h1 {
   padding-bottom: 3rem;
 }
 
-
+.jumbotron {
+  background-color: #9AAD9F !important;
+}
 
 
 /* footer */
