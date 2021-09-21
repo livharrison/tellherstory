@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   font-family: 'Quicksand';
+  box-sizing: border-box;
 }
 
 @font-face {
@@ -22,8 +23,13 @@
   font-family: 'Capriola';
 }
 
+p {
+  color: #535064;
+}
+
 h1 {
   font-family: 'Capriola';
+  font-size: 60px;
 }
 
 #politics {
@@ -36,6 +42,7 @@ h1 {
 
 #literature {
   color: #948271;
+  text-align: center;
 }
 
 .logo-container {
@@ -51,14 +58,59 @@ h1 {
 .page-container {
   position: relative;
   min-height: 100vh;
+  border: 1px solid black;
 }
 .content-wrap {
   padding-bottom: 3rem;
+  border: 1px solid blue;
+}
+
+.subtext {
+  font-style: italic;
+  justify-content: center;
+  color: #D5CCA0;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+}
+
+.main-page-wrap {
+  padding: 20px 20px;
+  border: 1px solid red;
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  border: 1px solid green;
+  margin: 0 10px 0 0;
+  align-items: center;
+  width: 50%;
 }
 
 .jumbotron {
   background-color: #9AAD9F !important;
 }
+
+
+
+/* lit/poli/sci page layouts */
+.image-grid {
+  width: 40%
+  border: 1px solid orange;
+ /* height: 400px;*/
+  display: grid;
+  grid-template: auto auto auto / 1fr 1fr;
+  grid-row-gap: 10px;
+  grid-column-gap: 10px;
+}
+.image-grid img {
+  height: 250px;
+}
+/* ------------------------- */
+
+
 
 
 /* footer */
@@ -85,3 +137,38 @@ footer {
   color: #535064;
 }
 /*--------*/
+
+
+
+/* responsive design */
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+  h1 {
+    font-size: 40px;
+  }
+  .main-page-wrap {
+    display: block;
+  }
+  .text {
+    width: 100%;
+  }
+  .image-grid {
+    width: 100%;
+  }
+  footer {
+    font-size: 11px;
+  }
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+
+}
+
+/* ----------------- */
