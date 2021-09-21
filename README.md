@@ -18,7 +18,7 @@ In collaboration with Maura Pierce
 - Mary Wollstonecraft
 - Judith Sargent Murray
 - Mercy Otis Warren
--Harriet Beecher Stowe
+- Harriet Beecher Stowe
 
 #### Politics
 - Elizabeth Cady Stanton
