@@ -34,15 +34,17 @@ h1 {
 
 #politics {
   color: #9AAD9F;
+  font-size: 70px;
 }
 
 #science {
   color: #778063;
+  font-size: 70px;
 }
 
 #literature {
   color: #948271;
-  text-align: center;
+  font-size: 70px;
 }
 
 .logo-container {
@@ -84,7 +86,7 @@ h1 {
 .text {
   margin: 0 10px 0 0;
   align-items: center;
-  width: 50%;
+  width: 55%;
 }
 
 .jumbotron {
@@ -95,7 +97,7 @@ h1 {
 
 /* lit/poli/sci page layouts */
 .image-grid-container {
-  width: 50%;
+  width: 45%;
   align-items: center;
 }
 .image-grid {
@@ -168,6 +170,15 @@ footer {
   footer {
     font-size: 11px;
   }
+  #politics {
+    text-align: center;
+  }
+  #literature {
+    text-align: center;
+  }
+  #science {
+    text-align: center;
+  }
 }
 
 /* Tablet Styles */
@@ -189,6 +200,15 @@ footer {
     width: 75%;
     grid-template: auto auto / 1fr;
     justify-content: center;
+  }
+  #politics {
+    text-align: center;
+  }
+  #literature {
+    text-align: center;
+  }
+  #science {
+    text-align: center;
   }
 }
 
