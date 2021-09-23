@@ -95,6 +95,22 @@ h1 {
 
 
 
+/* modal styling */
+
+h5 {
+  font-family: "Capriola";
+  color: #535064;
+}
+.modal a {
+  display: block;
+}
+
+/* ------------- */
+
+
+
+
+
 /* lit/poli/sci page layouts */
 .image-grid-container {
   width: 45%;
