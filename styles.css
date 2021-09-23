@@ -23,6 +23,9 @@
   font-family: 'Capriola';
 }
 
+/*---------*/
+
+
 p {
   color: #535064;
 }
@@ -35,16 +38,19 @@ h1 {
 #politics {
   color: #9AAD9F;
   font-size: 70px;
+  margin: 0pt 0pt 20pt 0pt;
 }
 
 #science {
   color: #778063;
   font-size: 70px;
+  margin: 0pt 0pt 20pt 0pt;
 }
 
 #literature {
   color: #948271;
   font-size: 70px;
+  margin: 0pt 0pt 20pt 0pt;
 }
 
 .logo-container {
