@@ -267,9 +267,11 @@ footer {
   }
   #politics {
     text-align: center;
+    font-size: 45px;
   }
   #literature {
     text-align: center;
+    font-size: 40px;
   }
   #science {
     text-align: center;
@@ -326,11 +328,16 @@ footer {
     width: 80%;
     margin: 15px auto;
   }
+  .text p {
+    font-size: 17px;
+  }
 }
 
 /* Desktop Styles */
 @media only screen and (min-width: 1001px) {
-
+  .text p {
+    font-size: 18px;
+  }
 }
 
 /* ----------------- */
