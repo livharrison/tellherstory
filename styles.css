@@ -132,6 +132,47 @@ h1 {
 /* ------------- */
 
 
+.large-nav-buttons {
+  display: flex;
+  height: 150px;
+  justify-content: space-around;
+  margin: 20px 25px 75px 25px;
+}
+
+.nav-button {
+  width: 30%;
+  border-radius: 15px;
+  justify-content: center;
+}
+
+.lit-button {
+  background-color: #948271;
+}
+
+
+.sci-button {
+  background-color: #778063;
+}
+
+.poli-button {
+  background-color: #9AAD9F;
+}
+
+
+.nav-button h2 {
+  font-size: 45px;
+  margin: 45px 0 60px 0;
+  font-family: "Capriola";
+  color: white;
+  text-align: center;
+}
+
+.lit-button h2 {
+  font-size: 40px;
+}
+
+
+
 
 /* modal styling */
 
@@ -233,6 +274,16 @@ footer {
   #science {
     text-align: center;
   }
+  .large-nav-buttons {
+    display: block;
+    height: 450px;
+    margin: 25px 20px 50px 20px;
+  }
+  .nav-button {
+    height: 30%;
+    width: 80%;
+    margin: 15px auto;
+  }
 }
 
 /* Tablet Styles */
@@ -263,6 +314,17 @@ footer {
   }
   #science {
     text-align: center;
+  }
+
+  .large-nav-buttons {
+    display: block;
+    height: 450px;
+    margin: 25px 20px 50px 20px;
+  }
+  .nav-button {
+    height: 30%;
+    width: 80%;
+    margin: 15px auto;
   }
 }
 
